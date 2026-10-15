@@ -1,4 +1,4 @@
-name: Build CI
+name: Build CI 2026
 
 on:
   workflow_dispatch:
